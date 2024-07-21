@@ -1,0 +1,16 @@
+/* Faraz Merchant, 3/22/24, IT202 002, Phase 02, fbm@njit.edu */
+
+.error {
+    margin: 100 auto;
+    text-align: center;
+}
+
+.error {
+    color: white;
+    background-color: maroon;
+    width: fit-content;
+    padding: 10;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+

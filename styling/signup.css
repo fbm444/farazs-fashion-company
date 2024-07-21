@@ -1,0 +1,92 @@
+/* Faraz Merchant, 4/5/24, IT202 002, Phase 04, fbm@njit.edu */
+form {
+    margin: 50 auto;
+    border: 3px solid black;
+    width: fit-content;
+    padding: 20px;
+    padding-top: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    background-color: #CBA991;
+}
+
+form h1 {
+    margin: 5 auto;
+    text-align: center;
+    background-color: #CBA991;
+    margin-bottom: 25px;
+
+}
+
+
+form label {
+    margin: 0 auto;
+    margin-left: 150;
+    background-color: #CBA991;
+    font-weight: 1000;
+    text-decoration: underline;
+    font-size: 150%;
+
+}
+
+#email {
+    margin-left: 30%;
+}
+
+#password {
+    margin-left: 27%;
+}
+
+#firstName {
+    margin-left: 35%;
+}
+
+#lastName {
+    margin-left: 35%;
+}
+
+#signup_message {
+    width: fit-content;
+    padding: 5px;
+    font-size: 125%;
+    border: 2px solid black;
+    margin: 5 auto;
+    margin-bottom: 20;
+    font-weight: 1000;
+    color: maroon;
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+form input {
+    margin: 20 auto;
+    font-size: 125%;
+    margin-left: 27%;
+    padding: 5;
+    border: 2px solid black;
+    width: 200;
+    border-radius: 10px;
+}
+
+
+#submit {
+    width: 200px;
+    height: 40px;
+    color: #643843;
+    font-weight: bold;
+    border: 5px solid black;
+    box-shadow: 5px 5px;
+    margin: 20 110;
+    margin-top: 25;
+}
+
+
+#submit-box {
+    width: fit-content;
+    margin: 20 auto;
+    text-align: center;
+
+}
+

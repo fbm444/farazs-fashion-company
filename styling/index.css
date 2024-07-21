@@ -1,0 +1,107 @@
+/*  Faraz Merchant, 2/16/24, IT202 002, Phase 01, fbm@njit.edu */
+
+
+h2 {
+    font-size: 200%;
+    text-align: center;
+    width: 75%;
+    margin: 20 auto;
+    color: #8e513d;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px #292f3f;
+}
+
+#welcome {
+    font-size: 150%;
+    text-align: center;
+    width: 50%;
+    margin: 20 auto;
+    color: #8e513d;
+    background-color: white;
+    border: 3px solid black;
+    border-radius: 20px;
+    box-shadow: 3px 3px 3px 3px #292f3f;
+
+}
+
+h3 {
+    text-align: center;
+    color: #643843;
+    border-bottom: 3px solid black;
+    padding-bottom: 5px;
+    width: 100%;
+    margin: 10 auto;
+    font-size: 200%;
+}
+
+p {
+    text-align: center;
+    width: 70%;
+    margin: 0 auto;
+    font-size: 150%;
+    font-weight: bolder;
+    border-width: 75%;
+    padding-bottom: 5px;
+}
+
+#end {
+    font-size: 200%;
+    padding-top: 10px;
+    width: 100%;
+    margin: 20 auto;
+    border: none;
+    margin-bottom: none;
+    border-top: 3px solid black;
+    font-weight: bold;
+}
+
+
+figure img {
+    display: block;
+    margin: 20 auto;
+}
+
+
+#images {
+    margin-top: none;
+    padding-top: none;
+}
+
+#collage {
+    margin-top: none;
+}
+
+#collage img {
+    display: block;
+    margin: 0 auto;
+    padding: 10px;
+    margin-top: none;
+    padding-top: none;
+}
+
+
+figcaption {
+    text-align: center;
+    font-size: 125%;
+    padding: 10px;
+    font-size: 200%;
+    width: 50%;
+    color: #A87C7C;
+    background-color: white;
+    border-radius: 7px;
+    display: block;
+    border: 3px solid black;
+    font-weight: 600;
+    margin: 10 auto;
+}
+
+#collage figcaption {
+    width: 50%;
+    font-size: 200%;
+}
+
+img {
+    border-radius: 25px;
+}

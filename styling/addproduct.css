@@ -1,0 +1,118 @@
+/* Faraz Merchant, 3/22/24, IT202 002, Phase 02, fbm@njit.edu */
+#error {
+    width: fit-content;
+    margin: 20 auto;
+    margin-bottom: 10;
+    text-align: center;
+    color: #BA2D23;
+    font-weight: bold;
+    font-size: 150%;
+    padding: 10px;
+    border: 5px solid #911C33;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    background-color: white;
+}
+
+#status {
+    width: fit-content;
+    margin: 20 auto;
+    margin-bottom: 10;
+    text-align: center;
+    color: green;
+    font-weight: bold;
+    font-size: 150%;
+    padding: 10px;
+    border: 5px solid green;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+    background-color: white;
+}
+
+.shipping {
+    text-align: center;
+    font-size: 100%;
+}
+
+#form_label {
+    font-size: 200%;
+    width: fit-content;
+    height: 35px;
+    border-radius: 10px;
+    padding: 10px;
+    color: #0C0B09;
+    margin: 25 auto;
+    background-color: #967969;
+    box-shadow: 5px 7px;
+}
+
+form {
+    margin: 15 auto;
+    border: 3px solid black;
+    width: 35%;
+    padding: 20px;
+    padding-top: 10px;
+    border: 5px solid black;
+    border-radius: 5px;
+    padding-bottom: 10px;
+    background-color: #CBA991;
+}
+
+form h3 {
+    font-size: 200%;
+    width: fit-content;
+    margin: 20 auto;
+    background-color: #967969;
+    color: black;
+    font-weight: bolder;
+    padding: 5px;
+    border-radius: 10px;
+    box-shadow: 5px 5px;
+}
+
+form label {
+    font-size: 150%;
+    padding-right: 5px;
+    background-color: #CBA991;
+    color: black;
+    font-weight: bolder;
+}
+
+input, select {
+    width: 200px;
+    font-size: 125%;
+    height: 35px;
+    margin-top: 20px;
+    background-color: white;
+    font-weight: 400;
+}
+
+select {
+    text-align: center;
+
+}
+
+#submit {
+    width: 200px;
+    height: 40px;
+    color: #643843;
+    font-weight: bold;
+    border: 5px solid black;
+    box-shadow: 5px 5px;
+}
+
+#reset {
+    width: 150px;
+    height: 40px;
+    color: #643843;
+    font-weight: bold;
+    border: 5px solid black;
+    box-shadow: 5px 5px;
+}
+
+
+span {
+    background-color: #CBA991;
+    font-weight: 1000;
+
+}
